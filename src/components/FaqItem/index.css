@@ -1,0 +1,17 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+  border: solid  #e4e7eb ;
+  margin-bottom: 10px;
+  padding: 10px;
+  margin-right: 30px;
+}
+.question-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+button{
+  background-color: transparent;
+  border-width: 0px;
+}
